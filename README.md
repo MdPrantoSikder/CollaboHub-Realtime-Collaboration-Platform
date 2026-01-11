@@ -17,3 +17,29 @@ Create tasks, assign team members, set deadlines, and track progress in real tim
 
 Cross-Device Support
 Access your workspace from desktop, tablet, or mobile devices with consistent synchronization.
+
+🎯 Use Cases
+
+Team-based software development
+
+Academic group projects
+
+Remote work collaboration
+
+Professional documentation and reporting
+
+🧩 Purpose
+
+The goal of CollaboHub is to provide an all-in-one collaboration ecosystem that improves transparency, coordination, and efficiency, especially for distributed teams and learning environments.
+
+🛠️ Tech Stack (Example)
+
+Frontend: React / Next.js
+
+Backend: Node.js / Django REST
+
+Realtime: WebSockets / WebRTC
+
+Database: PostgreSQL / MongoDB
+
+Authentication: JWT / OAuth
